@@ -8,7 +8,7 @@
          <br/><br/>
             <a href="https://discord.gg/gjVjvwXBfQ"><img align="center" src="https://discordapp.com/api/guilds/888589469467422751/widget.png?style=banner2" alt="Discord Banner2"/></a>
          <br/><br/>
-         - 🔭 I’m currently working on <strong><a href="https://github.com/Poolside-Pufferfish-Club/fisherman">The Fisherman - Discord Bot</a></strong> -
+         - 🔭 I’m currently working on <strong><a href="https://github.com/itstylerrr/rainy">rainy - Discord Bot</a></strong> -
          <br/>
          - 🌱 I’m currently learning <strong>React.JS</strong> -
          <br/>
