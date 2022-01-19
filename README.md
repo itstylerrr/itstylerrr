@@ -1,34 +1,10 @@
-<h2 align="center">👋 Hello, My Name Is Tyler!</h2>
-<p align="center">
-<table align="center">
-   <tr>
-      <td>
-         <p align="center">    
-         <img align="center" src="https://i.ibb.co/37Rq9NG/tyler-gooder.png" width="50%"/></a><br/>
-         <br/><br/>
-            <a href="https://discord.gg/gjVjvwXBfQ"><img align="center" src="https://discordapp.com/api/guilds/888589469467422751/widget.png?style=banner2" alt="Discord Banner2"/></a>
-         <br/><br/>
-         - 🔭 I’m currently working on <strong><a href="https://github.com/itstylerrr/rainy">rainy - Discord Bot</a></strong> -
-         <br/>
-         - 🌱 I’m currently learning <strong>React.JS</strong> -
-         <br/>
-         - 💬 Ask me about <strong>JavaScript, Html, CSS, Learning More Languages</strong> -
-         <br/>
-         - 📫 How to reach me: <a href="https://dsc.gg/gjVjvwXBfQ">-Tyler#7922</a> on Discord -
-         <br/>
-         <p align="center">                     
-             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstylerrr&theme=radical&hide_border=true" />
-         </p>  
-      </td>
-      <td>
-      <br/><br/>
-      <h2 align="center">📊 Tylers's Github Statistics 📊 </h2>   
-         <br/><br/><br/>
-         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=itstylerrr&theme=radical&hide_border=true" />   
-         <br/><br/><br/>
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=itstylerrr&theme=radical&show_icons=true&hide_border=true" />
-         <br/><br/><br/>         
-      </td>
-   </tr>
-</table>
-</p>
+![](https://hit.yhype.me/github/profile?user_id=63240641)
+## :wave: Hello there! Welcome to my profile
+![](https://komarev.com/ghpvc/?username=itstylerrr)
+
+Hello, my name is Tyler. I am a young developer who is in highschool and enjoys coding when I have time!
+![Metrics](https://metrics.lecoq.io/itstylerrr?template=classic&languages=1&isocalendar=1&activity=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&pagespeed.url=https%3A%2F%2Fpogy.xyz&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FBeirut)
+
+### ✉️ Contact Me
+
+- [Discord](https://discord.com/users/557016470048210964) / -Tyler#7922
